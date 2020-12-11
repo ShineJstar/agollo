@@ -1,4 +1,4 @@
-module github.com/shima-park/agollo
+module github.com/ShineJstar/agollo
 
 go 1.13
 
